@@ -1,3 +1,5 @@
+### Adapted from Metric Flow Matching (https://github.com/kkapusniak/metric-flow-matching)
+
 import torch
 
 

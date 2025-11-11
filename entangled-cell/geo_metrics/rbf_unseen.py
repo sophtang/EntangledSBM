@@ -1,3 +1,5 @@
+### Adapted from Metric Flow Matching (https://github.com/kkapusniak/metric-flow-matching)
+
 import pytorch_lightning as pl
 import torch
 from sklearn.cluster import KMeans

@@ -1,11 +1,11 @@
-# Entangled Schrödinger Bridge Matching ⚛️🌟
+# [Entangled Schrödinger Bridge Matching](https://arxiv.org/abs/2511.07406v1) ⚛️🌟
 
 
 [**Sophia Tang**](https://sophtang.github.io/), **[Yinuo Zhang](https://www.linkedin.com/in/yinuozhang98/)**, and [**Pranam Chatterjee**](https://www.chatterjeelab.com/)
 
 ![EntangledSBM](assets/entangled.gif)
 
-This is the repository for **Entangled Schrödinger Bridge Matching** ⚛️🌟. It is partially built on [**BranchSBM repo**](https://huggingface.co/ChatterjeeLab/BranchSBM) ([Tang et al. 2025](https://arxiv.org/abs/2506.09007)) and the [**TPS-DPS repo**](https://github.com/kiyoung98/tps-dps) ([Seong et al. 2024](https://arxiv.org/abs/2405.19961)). 
+This is the repository for **Entangled Schrödinger Bridge Matching** ⚛️🌟. It is partially built on the [**BranchSBM repo**](https://huggingface.co/ChatterjeeLab/BranchSBM) ([Tang et al. 2025](https://arxiv.org/abs/2506.09007)), the [**TPS-DPS repo**](https://github.com/kiyoung98/tps-dps) ([Seong et al. 2024](https://arxiv.org/abs/2405.19961)), and the [**Metric Flow Matching repo**](https://github.com/kkapusniak/metric-flow-matching) ([Kapusniak et al. 2024](https://arxiv.org/abs/2405.14780)).
 
 Simulating trajectories of multi-particle systems on complex energy landscapes is a central task in molecular dynamics (MD) and drug discovery, but remains challenging at scale due to computationally expensive and long simulations. Flow and Schrödinger bridge matching have been used to implicitly learn joint trajectories through data snapshots. However, many systems undergo *dynamic interactions* that evolve over their trajectory and cannot be captured through static snapshots.
 

@@ -1,6 +1,6 @@
 # EntangledSBM for Cell Perturbation Modelling 🧫
 
-This part of the code is for running the cell perturbation experiments. We demonstrate that EntanlgedSBM accurately **reconstructs perturbed cell states** and **generalizes to divergent target states not seen during training**. 
+This part of the code is for running the cell perturbation experiments. We demonstrate that EntanlgedSBM accurately **reconstructs perturbed cell states** and **generalizes to divergent target states not seen during training**. This codebase is partially built off of the [BranchSBM repo](https://github.com/kiyoung98/tps-dps/tree/main) ([Tang et al. 2025](https://arxiv.org/abs/2506.09007)) and the [Metric Flow Matching repo](https://github.com/kkapusniak/metric-flow-matching) ([Kapusniak et al. 2024](https://arxiv.org/abs/2405.14780)).
 
 ## Environment Installation
 ```
