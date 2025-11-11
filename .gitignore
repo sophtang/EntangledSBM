@@ -1,5 +1,8 @@
 entangled-tps/results/
 entangled-tps/scripts/wandb/
+entangled-tps/scripts/logs/
+entangled-tps/scripts/results/
+entangled-tps/wandb/
 entangled-tps/logs/
 entangled-cell/__pycache__/
 entangled-cell/scripts/lightning_logs/

@@ -1,0 +1,15 @@
+name: entangled-tps
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - openmmtools
+  - pip
+  - pip:
+    - tqdm
+    - matplotlib
+    - joblib
+    - pyemma
+    - ipykernel
+    - torch==1.13.1
+    - numpy==1.26.4

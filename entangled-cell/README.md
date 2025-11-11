@@ -33,7 +33,7 @@ All training scripts are located in `entangled-cell/scripts/`. Each script is pr
 
 **Before running experiments:**
 
-1. Set `HOME_LOC` to the base path where TR2-D2 is located and `ENV_PATH` to the directory where your environment is downloaded in the `.sh` files in `scripts/`
+1. Set `HOME_LOC` to the base path where EntangledSBM is located and `ENV_PATH` to the directory where your environment is downloaded in the `.sh` files in `scripts/`
 2. Create a path `entangled-cell/results` where the simulated trajectory figures and metrics will be saved. Also, create `entangled-cell/logs` where the training logs will be saved.
 3. Activate the conda environment:
 ```
