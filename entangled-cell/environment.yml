@@ -1,0 +1,36 @@
+name: entangled-cell
+channels:
+  - conda-forge
+  - omnia
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch-cuda=12.4
+  - rdkit=2024.09.6
+  - seaborn
+  - torchmetrics
+  - numpy[version='>=1.26.0,<2.0.0']
+  - mctc-lib
+  - scikit-learn
+  - pyyaml
+  - jupyter
+  - ase
+  - python[version='>=3.10']
+  - tqdm
+  - dxtb
+  - openbabel=3.1.1
+  - pytorch-lightning>=2.0.0
+  - lightning>=2.0.0
+  - joblib
+  - pip
+  - pip:
+      - scipy==1.13.1
+      - wandb==0.22.1
+      - torchcfm==1.0.7
+      - pyemma==2.5.12
+      - torchdyn==1.0.6
+      - pot 
+
+  - jupyter
+  - ipykernel
+  - notebook

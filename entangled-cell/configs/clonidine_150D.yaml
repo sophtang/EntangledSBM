@@ -1,0 +1,11 @@
+data_type: "tahoe"
+data_name: "clonidine150D"
+accelerator: "gpu"
+dim: 150
+velocity_metric: "rbf"
+metric_patience: 25
+n_centers: 300
+kappa: 3
+rho: -2.75
+alpha_metric: 1
+metric_epochs: 400

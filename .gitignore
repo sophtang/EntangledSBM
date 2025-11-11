@@ -1,0 +1,14 @@
+entangled-tps/results/
+entangled-tps/scripts/wandb/
+entangled-tps/logs/
+entangled-cell/__pycache__/
+entangled-cell/scripts/lightning_logs/
+entangled-cell/logs/
+entangled-cell/results/
+entangled-cell/scripts/wandb/
+entangled-cell/wandb/
+*.pt
+*.log
+*.ckpt
+*.pyc
+*.npy
